@@ -1,0 +1,145 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "123-456-7890",
+        "classDivision": "10A"
+      },
+      {
+        "id": 2,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "mobile": "234-567-8901",
+        "classDivision": "11B"
+      },
+      {
+        "id": 3,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "mobile": "345-678-9012",
+        "classDivision": "10A"
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "email": "emily.brown@example.com",
+        "mobile": "456-789-0123",
+        "classDivision": "9C"
+      },
+      {
+        "id": 5,
+        "name": "Michael Wilson",
+        "email": "michael.wilson@example.com",
+        "mobile": "567-890-1234",
+        "classDivision": "11A"
+      },
+      {
+        "id": 6,
+        "name": "Sophia Martinez",
+        "email": "sophia.martinez@example.com",
+        "mobile": "678-901-2345",
+        "classDivision": "10B"
+      },
+      {
+        "id": 7,
+        "name": "William Anderson",
+        "email": "william.anderson@example.com",
+        "mobile": "789-012-3456",
+        "classDivision": "12A"
+      },
+      {
+        "id": 8,
+        "name": "Olivia Taylor",
+        "email": "olivia.taylor@example.com",
+        "mobile": "890-123-4567",
+        "classDivision": "9B"
+      },
+      {
+        "id": 9,
+        "name": "James Jackson",
+        "email": "james.jackson@example.com",
+        "mobile": "901-234-5678",
+        "classDivision": "11B"
+      },
+      {
+        "id": 10,
+        "name": "Emma White",
+        "email": "emma.white@example.com",
+        "mobile": "012-345-6789",
+        "classDivision": "10C"
+      },
+      {
+        "id": 11,
+        "name": "Liam Harris",
+        "email": "liam.harris@example.com",
+        "mobile": "987-654-3210",
+        "classDivision": "9A"
+      },
+      {
+        "id": 12,
+        "name": "Ava Lee",
+        "email": "ava.lee@example.com",
+        "mobile": "876-543-2109",
+        "classDivision": "12B"
+      },
+      {
+        "id": 13,
+        "name": "Noah Garcia",
+        "email": "noah.garcia@example.com",
+        "mobile": "765-432-1098",
+        "classDivision": "11C"
+      },
+      {
+        "id": 14,
+        "name": "Isabella Rodriguez",
+        "email": "isabella.rodriguez@example.com",
+        "mobile": "654-321-0987",
+        "classDivision": "10A"
+      },
+      {
+        "id": 15,
+        "name": "Mason Lopez",
+        "email": "mason.lopez@example.com",
+        "mobile": "543-210-9876",
+        "classDivision": "9B"
+      },
+      {
+        "id": 16,
+        "name": "Charlotte Martinez",
+        "email": "charlotte.martinez@example.com",
+        "mobile": "432-109-8765",
+        "classDivision": "12A"
+      },
+      {
+        "id": 17,
+        "name": "Ethan Nguyen",
+        "email": "ethan.nguyen@example.com",
+        "mobile": "321-098-7654",
+        "classDivision": "11C"
+      },
+      {
+        "id": 18,
+        "name": "Amelia Kim",
+        "email": "amelia.kim@example.com",
+        "mobile": "210-987-6543",
+        "classDivision": "10B"
+      },
+      {
+        "id": 19,
+        "name": "Alexander Perez",
+        "email": "alexander.perez@example.com",
+        "mobile": "109-876-5432",
+        "classDivision": "9A"
+      },
+      {
+        "id": 20,
+        "name": "Evelyn Rivera",
+        "email": "evelyn.rivera@example.com",
+        "mobile": "098-765-4321",
+        "classDivision": "12C"
+      }
+    ]
+  }
+  
